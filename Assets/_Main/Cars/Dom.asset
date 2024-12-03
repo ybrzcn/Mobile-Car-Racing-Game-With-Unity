@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb556cdf691641d1830e14402afc7b2b, type: 3}
+  m_Name: Dom
+  m_EditorClassIdentifier: 
+  carName: Dom
+  playerPrefab: {fileID: 5367265363373228072, guid: bc3473a9a2da92c4f970d475989959a6,
+    type: 3}
+  aiPrefab: {fileID: 4435705266484305533, guid: 5fc1ca78509209b4a985387c28b809f8,
+    type: 3}
+  showcaseModel: {fileID: 1740865480142414, guid: 663342408c5e6e24f8e0cb584631c6ad,
+    type: 3}
+  maxSpeed: 160
+  motorPower: 17100
+  brakePower: 8000

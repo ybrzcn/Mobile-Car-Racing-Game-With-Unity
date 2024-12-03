@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb556cdf691641d1830e14402afc7b2b, type: 3}
+  m_Name: Brian O'Conner
+  m_EditorClassIdentifier: 
+  carName: Brian O'Conner
+  playerPrefab: {fileID: 513419644292709911, guid: 1aad45977084413438e0d9e1c0805033,
+    type: 3}
+  aiPrefab: {fileID: 3145318852306066910, guid: f564c5c199e37cf41a2eaa3e005fb0d3,
+    type: 3}
+  showcaseModel: {fileID: 1183083895199056, guid: b60d7f9e75fb4ae49bb7ed090888cd1d,
+    type: 3}
+  maxSpeed: 150
+  motorPower: 16200
+  brakePower: 8000

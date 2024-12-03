@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb556cdf691641d1830e14402afc7b2b, type: 3}
+  m_Name: BlazeRunner
+  m_EditorClassIdentifier: 
+  carName: BlazeRunner
+  playerPrefab: {fileID: 7651670206589135963, guid: 28cde0e46c160fd4899cfc1a383b1ec2,
+    type: 3}
+  aiPrefab: {fileID: 7236533125365198339, guid: da6d3486085b8054f975b5075b848df1,
+    type: 3}
+  showcaseModel: {fileID: 1850322742259794, guid: e49a8bcd44434de4fbd15b46bf3fd304,
+    type: 3}
+  maxSpeed: 180
+  motorPower: 18000
+  brakePower: 8000

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcdfe7abb4d54720b5de5125047bf453, type: 3}
+  m_Name: Dash
+  m_EditorClassIdentifier: 
+  skillIcon: {fileID: 21300000, guid: c67fbf9375ad5c34399c2849430ca7f7, type: 3}
+  uiRotation: {x: 0, y: 0, z: 90}
+  uiColor: {r: 0.38039216, g: 1, b: 0, a: 1}
+  skillPrefab: {fileID: 3670225649418563749, guid: ca9d0b9612bb0e740b59cdd3e6f1b823,
+    type: 3}
